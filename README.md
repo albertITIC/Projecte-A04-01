@@ -19,10 +19,11 @@
 #### ■ Administradors: tindran accés a totes les funcions.
 #### ■ Professorat: podran passar llista, veure l’assistència dels seus grups, i afegir-se el seu horari, modificar l'assistència, etc.
 
+
+## 3. Monitoratge i seguretat:
+#### ■ Tots els servidors i dispositius han d'estar monitoritzats constantment, de manera que qualsevol canvi en els arxius o intents de connexió no autoritzada quedin registrats. S’utilitzarà un script amb cron, i avís per correu electrònic.
+
 ## Important:
 ### L' aplicació ha de permetre la gestió de marcatges, horaris i retards, organitzant la informació en funció de la estructura que tingui la organització (departament, pisos, aules, edificis, etc.). 
 
 ### El desplegament de l'aplicació web haurà de ser automàtic, connectant-se a un sistema de control de versions (com Git) per actualitzar l’aplicació.
-
-## Monitoratge i seguretat:
-#### ■ Tots els servidors i dispositius han d'estar monitoritzats constantment, de manera que qualsevol canvi en els arxius o intents de connexió no autoritzada quedin registrats. S’utilitzarà un script amb cron, i avís per correu electrònic.
