@@ -29,6 +29,55 @@
 ### El desplegament de l'aplicació web haurà de ser automàtic, connectant-se a un sistema de control de versions (com Git) per actualitzar l’aplicació.
 
 # Documentació Wireframe DAW:
+## Iniciar sessió
+![Iniciar sessió](image-1.png)
+
 ## Crear compte
 ![Crear compte](image.png)
-### Per crear 
+### Ens servirà per crear un compte nou
+
+## Selecció d'ús del compte creada
+![Ús del Attendo](image-2.png)
+### Depenent de la selecció que hagi triat tindrà opcions diferents
+
+# APARTAT D'ALUMNE
+![Safata d'entrada](image-3.png)
+### Podem veure dues imatges, l'única diferència que podem trobar és el menú desplegable, és sol per la visualització. Per cada framework hi ha dues imatges.
+
+### En aquest apartat podem veure que disposa d'un llistat de notificacions al centre, aquest seria les alertes que envia el centre, molt semblant al gmail de google.
+### Podem veure a la part superior a la dreta l'imatge del nostre usuari. Si presiona l'icona podem veure que:
+![Tancar sessió](image-4.png)
+
+## Enviar missatge
+![Enviar misstage](image-5.png)
+### Apartat on l'usuari podrà enviar un correu a qui vulgui. Podrà adjuntar fitxers si ell vol.
+
+## Assistències mòduls
+![Assistències mòduls](image-6.png)
+### L'usuari podrà veure les seves assistències. Podem veure que primer estan separades per mòduls. Disposa d'una barra de búsqueda per facilitar l'ús de cerca.
+
+## Assitències separades per RA's
+![Assistències RA's](image-7.png)
+### Podem veure que un cop el nostre alumne hagi entrar al mòdul dessitjat li aparaixen les RA's o resultats d'aprenentatges. Si ens hi fixem podem veure que hi ha una "ruta" just a sobre perquè l'alumne es pugui moure lliurement en aquest apartat.
+
+## Assitències informació de les RA's
+### Un cop seleccionada la RA que l'alumne decideix veure, tindrà un llistat de "missatges" conforme ja han passat llista. Aquests tindrà un missatge segons si ha estat present, ha arribat tard o si no ha vingut.
+![Dins del missatge](image-8.png)
+
+# APARTAT DE PROFESSOR
+## Safata d'entrada
+![Safata d'entrada](image-9.png)
+### Disposa del mateix format que del alumne,
+
+![Missatges enviats](image-10.png)
+### Podra enviar correus a altres professors, i als seus alumnes.
+
+## Assitències mòdul
+![Assistències](image-11.png)
+### Disposarà dels mòduls que ell dongui. Si fa clic dins del seu mòdul veurà que:
+![RA's](image-12.png)
+### Disposarà d'una taula o informació del horari que ell imparteix. També té un botó que servirà per poder editar les hores que ell dóna.
+
+## Taula d'assistència
+![Taula d'assistència](image-13.png)
+### Podrà controlar el sistema d'assistència a classe. Podrà posar retards, absències, faltes...
