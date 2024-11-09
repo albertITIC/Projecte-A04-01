@@ -27,3 +27,8 @@
 ### L' aplicació ha de permetre la gestió de marcatges, horaris i retards, organitzant la informació en funció de la estructura que tingui la organització (departament, pisos, aules, edificis, etc.). 
 
 ### El desplegament de l'aplicació web haurà de ser automàtic, connectant-se a un sistema de control de versions (com Git) per actualitzar l’aplicació.
+
+# Documentació Wireframe DAW:
+## Crear compte
+![Crear compte](image.png)
+### Per crear 
