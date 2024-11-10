@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projecte-A04-01
 ### Treball realitzat a les branques "albert" i "karolayn"
 ## 08/11/24
@@ -33,7 +32,8 @@ L'alumne pot accedir a la seva pròpia informació, però no pot realitzar cap a
 ### 5. Fer wireframe general
 
 ![App assistència](AppWireframe.png)
-=======
+
+
 # Projecte-A04-01 
 ## Branca DAW - Albert Penadés Casajús
 
@@ -76,6 +76,7 @@ L'alumne pot accedir a la seva pròpia informació, però no pot realitzar cap a
 ![Ús del Attendo](image-2.png)
 ### Depenent de la selecció que hagi triat tindrà opcions diferents
 
+
 # APARTAT D'ALUMNE
 ![Safata d'entrada](image-3.png)
 ### Podem veure dues imatges, l'única diferència que podem trobar és el menú desplegable, és sol per la visualització. Per cada framework hi ha dues imatges.
@@ -100,6 +101,7 @@ L'alumne pot accedir a la seva pròpia informació, però no pot realitzar cap a
 ### Un cop seleccionada la RA que l'alumne decideix veure, tindrà un llistat de "missatges" conforme ja han passat llista. Aquests tindrà un missatge segons si ha estat present, ha arribat tard o si no ha vingut.
 ![Dins del missatge](image-8.png)
 
+
 # APARTAT DE PROFESSOR
 ## Safata d'entrada
 ![Safata d'entrada](image-9.png)
@@ -117,4 +119,8 @@ L'alumne pot accedir a la seva pròpia informació, però no pot realitzar cap a
 ## Taula d'assistència
 ![Taula d'assistència](image-13.png)
 ### Podrà controlar el sistema d'assistència a classe. Podrà posar retards, absències, faltes...
->>>>>>> albert
+
+
+# Apartat d'administrador
+![Administrador](image-14.png)
+### Apartat on podrem veure tot i tenir accès a totes les funcions. Podrem veure els usuaris que s'han creat ja siguit alumnes o professors, podrem veure els horaris, els grups i un apartat de configuració.
