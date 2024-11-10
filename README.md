@@ -117,3 +117,6 @@ L'alumne pot accedir a la seva pròpia informació, però no pot realitzar cap a
 ![Taula d'assistència](image-13.png)
 ### Podrà controlar el sistema d'assistència a classe. Podrà posar retards, absències, faltes...
 
+# Administrador
+![Admin](https://github.com/user-attachments/assets/8213146f-78ff-48e4-89fe-656fd3c9a591)
+### En aquest apartat podrà fer tot tipus de canvis. També podà veure els usuaris, és a dir els alumnes i professors creats, els horaris, i altres configuracions.
