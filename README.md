@@ -81,3 +81,8 @@
 ## Taula d'assistència
 ![Taula d'assistència](image-13.png)
 ### Podrà controlar el sistema d'assistència a classe. Podrà posar retards, absències, faltes...
+
+
+# Apartat d'Administrador
+![Admin](image-14.png)
+### Apartat on podrem veure tot i tenir accès a totes les funcions. Podrem veure els usuaris que s'han creat ja siguit alumnes o professors, podrem veure els horaris, els grups i un apartat de configuració
