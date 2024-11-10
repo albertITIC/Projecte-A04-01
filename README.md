@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Projecte-A04-01
 ### Treball realitzat a les branques "albert" i "karolayn"
 ## 08/11/24
@@ -33,7 +32,7 @@ L'alumne pot accedir a la seva pròpia informació, però no pot realitzar cap a
 ### 5. Fer wireframe general
 
 ![App assistència](AppWireframe.png)
-=======
+
 # Projecte-A04-01 
 ## Branca DAW - Albert Penadés Casajús
 
@@ -117,4 +116,4 @@ L'alumne pot accedir a la seva pròpia informació, però no pot realitzar cap a
 ## Taula d'assistència
 ![Taula d'assistència](image-13.png)
 ### Podrà controlar el sistema d'assistència a classe. Podrà posar retards, absències, faltes...
->>>>>>> albert
+
