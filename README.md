@@ -84,5 +84,44 @@
 
 
 # Apartat d'Administrador
+## Admin
 ![Admin](image-14.png)
 ### Apartat on podrem veure tot i tenir accès a totes les funcions. Podrem veure els usuaris que s'han creat ja siguit alumnes o professors, podrem veure els horaris, els grups i un apartat de configuració
+
+## Usuaris
+![Usuaris](image-15.png)
+### Secció on podrem veure tots els usuaris creats. Aquí podrem diferenciar els diferents rols d'alumne i professor. A la següent imatge podem veure que disposen de la mateixa estructura, separat per curs. L'únic que varia és el nom ens trobem situats.
+![Alumnes i Professors](image-16.png)
+
+## Llistat d'alumnes de 1r i 2n de DAW
+![Llistat d'alumnes de 1r i 2n de DAW](image-17.png)
+### Aquí podem veure tots els alumnes creats de DAW separats per any (1r i 2n). És el mateix per els altres cursos (DAM i ASIX). Si ens hi fixem podem veure a la part superior del wireframe 3 icones, aquests serviràn per editar un alumne, eliminar un alumne i per afegir un alumne.
+
+## Llistat de professors
+![Llistat de professors de 1r i 2n de DAW](image-18.png)
+### Podem veure tots els professors de 1r i 2n de DAW. Per els altres cursos serà el mateix format. Així com els alumnes, els professors tindran les mateixes icones per poder editar, eliminar i afegir professor.
+
+# Horaris
+## Distribució dels horaris.
+![Apartat d'horaris de les classes](image-19.png)
+### Aquest apartat estarà dividit per dos botons principals que més endavant redirigirà als cursos d'aquell any.
+### 1r any
+![Horaris 1r](image-20.png)
+
+### 2n any 
+![Horaris de 2n](image-21.png)
+
+### Un cop dins podem veure que cada curs tindrà els seus horaris establerts. Aquests podràn ser modificats.
+#### Horaris de 1r
+![Horaris de 1r DAW, DAM, ASIX](image-22.png)
+
+#### Horaris de 2n
+![Horaris de 2n DAW, DAM, ASIX](image-23.png)
+
+# Grups
+## En aquest apartat sol disposarà de 3 botons que redirigirà a les webs que ja han sigut anteriorment creades.
+![Grups](image-24.png)
+
+# Configuració
+## Apartat dedicat a la configuració bàsica de la web. Aquí hi haurà informació bàsica, botons per cambiar d'hora, idioma, comptes, cofigurar tamany...
+![Configuració](image-25.png)
