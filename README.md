@@ -117,7 +117,6 @@ L'alumne pot accedir a la seva pròpia informació, però no pot realitzar cap a
 ![Taula d'assistència](image-13.png)
 ### Podrà controlar el sistema d'assistència a classe. Podrà posar retards, absències, faltes...
 
-
 # Apartat d'Administrador
 ## Admin
 ![Admin](image-14.png)
