@@ -159,3 +159,6 @@ L'alumne pot accedir a la seva pròpia informació, però no pot realitzar cap a
 # Configuració
 ## Apartat dedicat a la configuració bàsica de la web. Aquí hi haurà informació bàsica, botons per cambiar d'hora, idioma, comptes, cofigurar tamany...
 ![Configuració](image-25.png)
+
+# Base de dades - Model relacional
+![BBDD Model relacional](image-26.png)
