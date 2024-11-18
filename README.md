@@ -72,8 +72,8 @@ L'alumne pot accedir a la seva pròpia informació, però no pot realitzar cap a
 ### Ens servirà per crear un compte nou
 
 ## Selecció d'ús del compte creada
-![Ús del Attendo](image-2.png)
-### Depenent de la selecció que hagi triat tindrà opcions diferents
+![creació del compte](image-2.png)
+### Sol podrà accedir com a alumne, més endavant podrà ser modificat per poder afegir els seus permisos.
 
 # APARTAT D'ALUMNE
 ![Safata d'entrada](image-3.png)
@@ -159,6 +159,12 @@ L'alumne pot accedir a la seva pròpia informació, però no pot realitzar cap a
 # Configuració
 ## Apartat dedicat a la configuració bàsica de la web. Aquí hi haurà informació bàsica, botons per cambiar d'hora, idioma, comptes, cofigurar tamany...
 ![Configuració](image-25.png)
+
+## Secció del admin per veure tots els usuaris creats
+![Veure tots els usuaris creats](image-27.png)
+
+#### Estan dividits per: Alumne, Professor i Admin:
+![Tipus d'usuaris](image-28.png)
 
 # Base de dades - Model relacional
 ![BBDD Model relacional](image-26.png)
